@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+my+profile!)
+![Profile Banner](./Banner.png)
 
 Hello there! I’m Dinkar, and this is my special repository where you can get to know me and my work. Here, I showcase my projects, skills, and passion for software development 
 
