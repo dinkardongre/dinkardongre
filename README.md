@@ -8,7 +8,7 @@ Hello there! I’m Dinkar, and this is my special repository where you can get t
   <a href="https://www.linkedin.com/in/dinkar-dongre/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username dinkar-dongre" /></a>
 <a href="https://leetcode.com/u/dongredinkar34"><img src="https://img.shields.io/badge/leetcode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209" alt="leetcode profile of Dinkar" /></a>
 <a href="dongredinkar34@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Dinkar i.e. dongredinkar34@gmail.com" /></a>
-  <a href="https://x.com/Iamdinkar1"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of x with username Iamdinkar1" ></a>
+  <a href="https://x.com/Imdinkar1"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of x with username Iamdinkar1" ></a>
 </div>
 <br>
 
