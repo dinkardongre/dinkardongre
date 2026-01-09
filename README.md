@@ -33,7 +33,7 @@ Hello there! I’m Dinkar, and this is my special repository where you can get t
 </div>
 
 ## 🌟 About Me
-👨‍💻 Passionate Software Developer with expertise in Core Java, SQL, and modern web technologies including HTML, CSS, JavaScript, and ReactJS.
+👨‍💻 Passionate Software Developer with expertise in Python, SQL, and modern web technologies including HTML, CSS, JavaScript, and ReactJS.
 
 🔭 Actively expanding my skill set in Python, FastAPI, Data Analytics, Data Science, and Generative AI to build innovative solutions.
 
